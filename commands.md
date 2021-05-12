@@ -70,3 +70,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/vdkhiem/reactivities.git
 git push -u origin main
+
+
+# Use mediator (nuget package) to handle business logic and install in Application
